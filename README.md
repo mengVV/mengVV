@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mengVV
-- 👀 I’m interested in computer
-- 🌱 I’m currently learning machine learning and computer vision
+- 👀 I’m interested in Deep Learning Theory
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me visualmengw@gmail.com
 <!---
